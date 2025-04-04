@@ -61,5 +61,6 @@ if nombre == 1:
             print(mdp," n'est pas le bon mdp")
 
     apres = time.time()
+    print("les resultats ont étés envoyés vers le dossier Extract")
 else:
     print("à bientôt")
